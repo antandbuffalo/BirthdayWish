@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wishes</key>
+	<array>
+		<dict>
+			<key>authorName</key>
+			<string>Roopa</string>
+			<key>wish</key>
+			<string>Happy birthday</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Shyam</string>
+			<key>wish</key>
+			<string>Birthday wishes</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Sijo</string>
+			<key>wish</key>
+			<string>Happy bday</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Muthu</string>
+			<key>wish</key>
+			<string>Vaalthukkal</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Bala Ganga</string>
+			<key>wish</key>
+			<string>Iniya piranthanaal nal vaalthukkal</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Rohith</string>
+			<key>wish</key>
+			<string>Bday</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Mani</string>
+			<key>wish</key>
+			<string>Iniya piranthanaal nal vaalthukkal</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Suresh</string>
+			<key>wish</key>
+			<string>Iniya nal vaalthukkal</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Shriya</string>
+			<key>wish</key>
+			<string>Iniya piranthanaal nal vaalthukkal</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Meenaks</string>
+			<key>wish</key>
+			<string>Akila is one of the bloggers I admire a lot, and one of the Cognizant associates whose friendship I deeply cherish. Although she tries to call herself my disciple, I should say there are so many things I have learnt from her, so she is indeed my guru. I have seen her writing grow and mature into what it is today, and if I have played some part in it (according to her), then I feel most happy about it. She is a role model for everybody to follow with her graceful demeanor and humorous disposition.  My heartiest birthday wishes to her, and many more happy returns of the day. May she find all the happiness in her life.</string>
+		</dict>
+		<dict>
+			<key>authorName</key>
+			<string>Jeyabalaji</string>
+			<key>wish</key>
+			<string>Iniya Piranthanal nal vaalthukkal Akka :)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
